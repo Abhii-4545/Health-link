@@ -1,0 +1,6 @@
+{
+  "name": "HealthLink ABHA",
+  "description": "An ABHA-linked medical record exchange platform designed to help authorized healthcare professionals access patient history securely, subject to patient consent and supported integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
